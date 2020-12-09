@@ -57,7 +57,7 @@
             "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. Today we will be having our only FREE live session of the week. The link will be dropped in here at 8 am EST. Talk to you soon!🔥"
         },
         {
-            "cron": "00 05 08 * * WED",
+            "cron": "00 00 08 * * WED",
             "message": "Here is the link to our live trading session you can join NOW 🔗 https://us02web.zoom.us/j/5273214305"
         },
         {
