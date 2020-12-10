@@ -76,7 +76,7 @@
             "cron": "00 00 21 * * WED",
             "message": "POLL",
             "poll": {
-                "header": "(How to) \nhttps://www.loom.com/share/128fcdee03ad4533a6023019a0a981ec",
+                "header": "",
                 "question": "Question: Did you join today’s live session ⁉️",
                 "answers": ["Yea 🔥", "Couldn’t make it 👎🏻", "Caught replay 🎥"]
             }
