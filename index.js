@@ -38,39 +38,48 @@ announcements["announcements"].forEach(announcement => {
 })
 
 // Message that shows up first 
-client.hears(/\/pay/i, function (message) {
-	var iKeys = [];
-	iKeys.push([{
-		text: "This costs a lot of money: $1000.00",
-		callback_data: "100000"
-	}]);
+// client.hears(/\/pay/i, function (message) {
+// 	var iKeys = [];
+// 	iKeys.push([{
+// 		text: "This costs a lot of money: $1000.00",
+// 		callback_data: "100000"
+// 	}]);
 
-	client.telegram.sendMessage(message.chat.id, "<b>FOREX STUFF WOO</b>\n\nHere is a brief description section\n\nPlease give me money:", {
-		parse_mode: 'HTML',
-		disable_web_page_preview: true,
-		reply_markup: {
-			inline_keyboard: iKeys
-		}
-	});
-});
+// 	client.telegram.sendMessage(message.chat.id, "<b>FOREX STUFF WOO</b>\n\nHere is a brief description section\n\nPlease give me money:", {
+// 		parse_mode: 'HTML',
+// 		disable_web_page_preview: true,
+// 		reply_markup: {
+// 			inline_keyboard: iKeys
+// 		}
+// 	});
+// });
 
-// Message that shows up after you click the first button and then sends the invoice
-client.on('callback_query', ctx => {
-	const invoice = {
-		'title': 'Moneymoney',
-		'description': 'wooooo description',
-		'payload': ctx.from.id + '---' + Date.now(),
-		'provider_token': process.env.STRIPE_TOKEN,
-		'start_parameter': 'pay',
-		'currency': 'USD',
-		'prices': [{'label': 'Money', "amount": 1099}]
-	};
+// // Message that shows up after you click the first button and then sends the invoice
+// client.on('callback_query', ctx => {
+// 	const invoice = {
+// 		'title': 'Moneymoney',
+// 		'description': 'wooooo description',
+// 		'payload': ctx.from.id + '---' + Date.now(),
+// 		'provider_token': process.env.STRIPE_TOKEN,
+// 		'start_parameter': 'pay',
+// 		'currency': 'USD',
+// 		'prices': [{'label': 'Money', "amount": 1099}]
+// 	};
 	
-	client.telegram.sendInvoice(1320056243, invoice);
-});
+// 	client.telegram.sendInvoice(-1001398064062, invoice);
+// });
 
 // client.hears('test', (ctx) => console.log(ctx.chat.id));
 // client.telegram.sendMessage(-1001398064062, 'Hello! This is an automated test');
 // Debug messages here: https://api.telegram.org/bot<BOT_TOKEN>/getUpdates
+
 // Connect the bot
 client.launch();
+
+
+
+
+// Notes:
+// https://stackoverflow.com/questions/46736490/connect-stripe-connect-with-the-telegram-payment-api
+// https://github.com/atipugin/telegram-bot-ruby/issues/128
+// https://github.com/yagop/node-telegram-bot-api/issues/558
