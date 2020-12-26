@@ -21,6 +21,10 @@
             "message": "Thank you for joining our live session! Best of luck this week in the markets.Our next free session will be on Wednesday at 8 am est.  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management reach out to us ASAP! https://t.me/forexleaguehelp"
         },
         {
+            "cron": "00 00 22 * * SUN",
+            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 We are teaming up with Royal Raffles to give away a 34” LG Ultra Wide Curved Monitor. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected. Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/lg-34in-monitor"
+        },
+        {
             "cron": "00 30 07 * * MON",
             "message": "Good morning Forex League❗ I want to welcome all our new members to the community! Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless. Have an impactful day and feel free to reach out if you have any questions 🙏"
         },
@@ -51,6 +55,10 @@
         {
             "cron": "00 00 21 * * TUE",
             "message": "Hey Team! We are having our only free live trading session of the week tomorrow at 8 am EST. ⏰ A zoom link will be posted here prior to the session and it is completely FREE to join. \n\nIf you have questions about anything feel free to come through and ask in the chat! As always there will be a $25 giveaway for people who attend 💰 See you for tomorrow’s session! 💯"
+        },
+        {
+            "cron": "00 00 22 * * TUE",
+            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 We are teaming up with Royal Raffles to give away a 34” LG Ultra Wide Curved Monitor. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected. Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/lg-34in-monitor"
         },
         {
             "cron": "00 30 07 * * WED",
@@ -102,6 +110,10 @@
             "message": "If you aren’t already, make sure to join our discord community. Inside of there you can network with other traders 🌍, join our premium services 📈, participate in giveaways 💰and more!  Here is the link to join 🔗  http://forexleagueteam.com/free"
         },
         {
+            "cron": "00 00 22 * * THU",
+            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 We are teaming up with Royal Raffles to give away a 34” LG Ultra Wide Curved Monitor. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected. Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/lg-34in-monitor"
+        },
+        {
             "cron": "00 30 07 * * FRI",
             "message": "Hey Team! This has been another interesting week in the markets 🔥 If you want account management services from us shoot me a message to get more information! https://t.me/forexleaguehelp"
         },
@@ -121,5 +133,9 @@
             "cron": "00 00 12 * * SAT",
             "message": "Want to grab some Forex League gear such as hats, notebooks, or beanies? Then head over to our pop up shop and check out what’s currently in stock 🔥 https://www.forexleagueco.com/forex-league-essentials"
         }
+        {
+            "cron": "00 00 17 * * SAT",
+            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 We are teaming up with Royal Raffles to give away a 34” LG Ultra Wide Curved Monitor. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected. Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/lg-34in-monitor"
+        },
     ]
 }
