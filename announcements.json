@@ -9,6 +9,10 @@
             "message": "If you aren’t already make sure to join our discord community. Inside of there you can network with other traders 🌍, join our premium services 📈, participate in giveaways 💰and more!  Here is the link to join 🔗 \nhttp://forexleagueteam.com/free"
         },
         {
+            "cron": "00 00 17 * * SUN",
+            "message": "The broker that we use is KOT4x 👑 They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
+        },
+        {
             "cron": "00 30 19 * * SUN",
             "message": "Hey Team! Our live trading session will take place at 8 pm EST! Zoom link will be posted in here before. Talk to you guys soon 🔥"
         },
