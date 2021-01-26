@@ -10,7 +10,7 @@
         },
         {
             "cron": "00 00 17 * * SUN",
-            "message": "The broker that we use is Nash Markets 👑 They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
+            "message": "The broker that we use is ProsperityFX 👑 They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
         },
         {
             "cron": "00 30 19 * * SUN",
@@ -50,7 +50,7 @@
         },
         {
             "cron": "00 30 02 * * TUE",
-            "message": "The broker that we use is Nash Markets 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
+            "message": "The broker that we use is ProsperityFX 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
         },
         {
             "cron": "00 30 07 * * TUE",
@@ -115,7 +115,7 @@
         },
         {
             "cron": "00 30 02 * * THU",
-            "message": " The broker that we use is Nash Markets 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
+            "message": " The broker that we use is ProsperityFX 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
         },
         {
             "cron": "00 30 07 * * THU",
