@@ -2,19 +2,27 @@
     "announcements": [
         {
             "cron": "00 00 08 * * SUN",
-            "message": "Good Morning Team! First of all I just want to welcome all new members to the group. The markets are opening at 5 pm EST today! 📊 As always we will be posting all of our charts in here before the market opens! 🔥 \n\n Tonight we will be having our Sunday Market Blitz at 8 pm EST which is a live trading session where we cover all of our technical analysis on 10+ pairs. 🎥\n\n This is an amazing way to kick off the week and see where each pair could be making their next move. If there are opportunities for entry we will provide them for FREE on this live trading session 💰 \n\n The link will be dropped in here prior to this session and it will also be on youtube live 🚀 \n\n If you want to get started with any of our premium services please click below 👑 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 \n\n👉🏻  @ForexLeagueMessageBot 👈🏻 "
+            "message": "Good Morning Team! First of all I just want to welcome all new members to the group. The markets are opening at 5 pm EST today! 📊 As always we will be posting all of our charts in here before the market opens! 🔥 \n\n Tonight we will be having our Sunday Market Blitz at 8 pm EST which is a live trading session where we cover all of our technical analysis on 10+ pairs. 🎥\n\n This is an amazing way to kick off the week and see where each pair could be making their next move. If there are opportunities for entry we will provide them for FREE on this live trading session 💰 \n\n The link will be dropped in here prior to this session and it will also be on youtube afterwards 🚀 \n\n If you want to get started with any of our premium or free services please click below 👑 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
         {
             "cron": "00 00 12 * * SUN",
             "message": "If you aren’t already make sure to join our discord community. Inside of there you can network with other traders 🌍, join our premium services 📈, participate in giveaways 💰 and more!  Here is the link to get started 🔗\n @ForexLeagueMessageBot"
         },
         {
+            "cron": "00 30 13 * * SUN",
+            "message": "Want to join our Premium Signals this week? 💰 🔗\n @ForexLeaguePremiumSignalsBot"
+        },
+        {
+            "cron": "00 00 15 * * SUN",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
+        },
+        {
             "cron": "00 00 17 * * SUN",
             "message": "The broker that we use is ProsperityFX 👑 They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
         },
         {
-            "cron": "00 30 19 * * SUN",
-            "message": "Hey Team! Our live trading session will take place at 8 pm EST! Zoom link will be posted in here before. Talk to you guys soon 🔥"
+            "cron": "00 00 19 * * SUN",
+            "message": "Hey Team! Our live trading session will take place at 8 pm EST which is in 1 hour! Zoom link will be posted in here before. Talk to you guys soon 🔥"
         },
         {
             "cron": "00 00 20 * * SUN",
@@ -22,15 +30,19 @@
         },
         {
             "cron": "00 05 21 * * SUN",
-            "message": "Thank you for joining our live session! Best of luck this week in the markets.Our next free session will be on Wednesday at 9 am est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
+            "message": "Thank you for joining our live trading session! Best of luck this week in the markets.Our next free session will be on Wednesday at 9 am est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
         {
             "cron": "00 00 22 * * SUN",
-            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
+            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great deal for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
+        },
+        {
+            "cron": "00 30 02 * * Mon",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
         },
         {
             "cron": "00 30 07 * * MON",
-            "message": "Good morning Forex League❗ I want to welcome all our new members to the community! Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless.\n\nHave an impactful day and if you want to join any of our premium services just click below! 🙏  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
+            "message": "Good morning Forex League❗ I want to welcome all our new members to the community! Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless.\n\n If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot 👈🏻 "
         },
         {
             "cron": "00 15 08 * * MON",
@@ -41,6 +53,10 @@
             "message": "If you are not already inside, make sure you join our free course! 🔥 Here is the link to get started! 🔗  @ForexLeagueMessageBot "
         },
         {
+            "cron": "00 00 15 * * Mon",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
+        },
+        {
             "cron": "00 00 17 * * MON",
             "message": "If you want account management services you can get more details by going here! ➡️  @ForexLeagueTradeCopierBot"
         },
@@ -49,36 +65,75 @@
             "message": "If you want to check out one of our previously done live webinars you can head over to our website and look back on some of the free ones we have done 🔗  https://myforexleague.teachable.com/courses/enrolled/595325"
         },
         {
+            "cron": "00 00 23 * * MON",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "Which pairs should we analyze for the NY session tomorrow ⁉️",
+                "answers": ["USDCAD", "USDCHF", "GBPUSD", "EURUSD", "AUDUSD", "NZDUSD"]
+            }
+        },
+        {
             "cron": "00 30 02 * * TUE",
             "message": "The broker that we use is ProsperityFX 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
         },
         {
             "cron": "00 30 07 * * TUE",
-            "message": "Good morning Forex League❗We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 "
+            "message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 "
+        },
+        {
+            "cron": "00 00 09 * * TUE",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
         },
         {
             "cron": "00 00 12 * * TUE",
             "message": "Go to our website where you can find all the products we have to offer along with a little background about us! Just use this link to check it out 🚀  https://www.forexleagueco.com/ "
         },
          {
-            "cron": "00 00 02 * * TUE",
+            "cron": "00 00 13 * * TUE",
             "message": "Want to chat with members of this telegram join here 🌎⬇️ \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U "
         },
         {
-            "cron": "00 00 05 * * TUE",
+            "cron": "00 30 15 * * TUE",
+            "message": "Want to join our Premium Signals sign up NOW? 💰 🔗\n @ForexLeaguePremiumSignalsBot"
+        },
+         {
+            "cron": "00 00 16 * * TUE",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "Which pairs should we analyze for the Asian session ⁉️",
+                "answers": ["GBPJPY", "EURJPY", "AUDJPY", "USDJPY", "CADJPY"]
+            }
+        },
+        {
+            "cron": "00 00 17 * * TUE",
             "message": "Hey Team! We are having our only free live trading session of the week tomorrow at 9 am EST. ⏰ A zoom link will be posted here prior to the session and it is completely FREE to join. \n\n If you have questions about anything feel free to come through and ask in the chat! As always there will be a $25 giveaway for people who attend 💰 See you for tomorrow’s session! 💯"
         },
         {
             "cron": "00 00 22 * * TUE",
-            "message": "We just launched our new prop firm called FXSeed that has better terms that FTMO 💰We are the only prop firm that allows copy trading on our platform 🏧 \n\n One of our master traders can trade your account for you or you can take the challenge yourself and take advantage of the 80% profit split clients receive. 🚀 You can get started by going to our sign up bot \n\n  👉🏻 @FXSeedinformationbot 👈🏻"
+            "message": "Want to get funded live money up to $1 million dollars?💰 To learn more click here \n\n  👉🏻 @FXSeedinformationbot 👈🏻"
         },
         {
             "cron": "00 30 23 * * TUE",
-            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
+            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great deal for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
+        },
+         {
+            "cron": "00 00 01 * * WED",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "Which pairs should we analyze for the NY session tomorrow ⁉️",
+                "answers": ["USDCAD", "USDCHF", "GBPUSD", "EURUSD", "AUDUSD", "NZDUSD"]
+            }
+        },
+        {
+            "cron": "00 00 05 * * WED",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
         },
         {
             "cron": "00 30 07 * * WED",
-            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. Today we will be having our only FREE live session of the week. The link will be dropped in here at 9 am EST. Talk to you soon!🔥"
+            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be having our only FREE live session of the week. The link will be dropped in here at 9 am EST. Talk to you soon!🔥"
         },
         {
             "cron": "00 00 09 * * WED",
@@ -86,10 +141,10 @@
         },
         {
             "cron": "00 05 10 * * WED",
-            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management you can get started below with our sign up bot!\n\n 👉🏻👉🏻👉🏻  @ForexLeagueMessageBot 👈🏻👈🏻👈🏻 "
+            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot🏻👈🏻 "
         },
          {
-            "cron": "00 45 09 * * WED",
+            "cron": "00 30 11 * * WED",
             "message": "Want to chat with members of this telegram join here 🌎⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U"
         },
         {
@@ -101,11 +156,15 @@
             "message": "If you want account management services from us you can get started here 🏧 ➡ @ForexLeagueTradeCopierBot "
         },
         {
+            "cron": "00 00 19 * * WED",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
+        },
+        {
             "cron": "00 00 21 * * WED",
             "message": "POLL",
             "poll": {
                 "header": "",
-                "question": "Question: Did you join today’s live session ⁉️",
+                "question": "Did you join today’s live session ⁉️",
                 "answers": ["Yea 🔥", "Couldn’t make it 👎🏻", "Caught replay 🎥"]
             }
         },
@@ -113,8 +172,17 @@
             "cron": "00 00 22 * * WED",
             "message": "If you are not already make sure you join our free course! Here is the link to get started!  🔗 @ForexLeagueMessageBot"
         },
+         {
+            "cron": "00 00 23 * * WED",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "Which pairs should we analyze for the NY session tomorrow ⁉️",
+                "answers": ["USDCAD", "USDCHF", "GBPUSD", "EURUSD", "AUDUSD", "NZDUSD"]
+            }
+        },
         {
-            "cron": "00 30 02 * * THU",
+            "cron": "00 30 05 * * THU",
             "message": " The broker that we use is ProsperityFX 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
         },
         {
@@ -123,15 +191,33 @@
         },
          {
             "cron": "00 30 08 * * THU",
-            "message": "Want to chat with members of this telegram join here 🌎 ⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U "
+            "message": "Want to join our Premium Signals get in NOW? 💰 🔗\n @ForexLeaguePremiumSignalsBot"
+        },
+         {
+            "cron": "00 00 11 * * THU",
+            "message": "Join the chat with members of this telegram here 🌎 ⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U "
         },
         {
             "cron": "00 00 12 * * THU",
             "message": "Make sure to check out our website where you can find all the products we have to offer along with a little about the owners of Forex League! Just use this link to check it out 🚀 https://www.forexleagueco.com/"
         },
         {
+            "cron": "00 00 15 * * THU",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
+        },
+        {
+            "cron": "00 00 17 * * THU",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "Which pairs should we analyze for the Asian session ⁉️",
+                "answers": ["GBPJPY", "EURJPY", "AUDJPY", "USDJPY", "CADJPY"]
+            }
+        },
+
+        {
             "cron": "00 00 18 * * THU",
-            "message": "We just launched our new prop firm called FXSeed that has better terms that FTMO 💰We are the only prop firm that allows copy trading on our platform 🏧 One of our master traders can trade your account for you or you can take the challenge yourself and take advantage of the 80% profit split clients receive. 🚀 You can get started by going to our sign up bot \n\n 👉🏻  @FXSeedinformationbot 👈🏻 "
+            "message": "Want to get funded live money up to $1 million dollars?💰 To learn more click here \n\n  👉🏻 @FXSeedinformationbot 👈🏻 "
         },
         {
             "cron": "00 00 21 * * THU",
@@ -139,15 +225,11 @@
         },
         {
             "cron": "00 00 22 * * THU",
-            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great monitor for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
-        },
-        {
-            "cron": "00 30 02 * * FRI",
-            "message": "Hey Team! Thank you for joining the Forex League Live Sessions this week! 💯 We hope that you guys benefited from them and we really enjoy doing them for everybody. The amount of support and teamwork within this community always comes through and only makes us want to work harder every week 💪🏻 If you did not catch the live sessions make sure to jump on over to our youtube channel and check them out. They are completely FREE! https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
+            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great deal for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
         },
         {
             "cron": "00 30 07 * * FRI",
-            "message": "Hey Team! This has been another interesting week navigating the markets 🔥 \n\n If you want account management services from us you can get started here 🏧  ➡ @ForexLeagueTradeCopierBot "
+            "message": "Hey Team! Thank you for joining the Forex League Live Sessions this week! 💯 We hope that you guys benefited from them and we really enjoy doing them for everybody. The amount of support and teamwork within this community always comes through and only makes us want to work harder every week 💪🏻 If you did not catch the live sessions make sure to jump on over to our youtube channel and check them out. They are completely FREE! https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
         },
         {
             "cron": "00 30 08 * * FRI",
@@ -162,6 +244,10 @@
             "message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325"
         },
         {
+            "cron": "00 00 19 * * FRI",
+            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
+        },
+        {
             "cron": "00 00 09 * * SAT",
             "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
@@ -171,7 +257,7 @@
         },
         {
             "cron": "00 00 17 * * SAT",
-            "message": "We just launched our new prop firm called FXSeed that has better terms that FTMO 💰We are the only prop firm that allows copy trading on our platform 🏧 One of our master traders can trade your account for you or you can take the challenge yourself and take advantage of the 80% profit split clients receive. 🚀 You can get started by going to our sign up bot 👉🏻  @FXSeedinformationbot 👈🏻"
+            "message": "Want to get funded live money up to $1 million dollars? 💰 To learn more click here \n\n  👉🏻 @FXSeedinformationbot 👈 🏻"
         }
     ]
 }
