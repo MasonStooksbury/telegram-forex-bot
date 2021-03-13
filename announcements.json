@@ -33,10 +33,6 @@
             "message": "Thank you for joining our live trading session! Best of luck this week in the markets.Our next free session will be on Wednesday at 9 am est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
         {
-            "cron": "00 00 22 * * SUN",
-            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great deal for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
-        },
-        {
             "cron": "00 30 02 * * Mon",
             "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
         },
@@ -113,10 +109,6 @@
         {
             "cron": "00 00 22 * * TUE",
             "message": "Want to get funded live money up to $1 million dollars?💰 To learn more click here \n\n  👉🏻 @FXSeedinformationbot 👈🏻"
-        },
-        {
-            "cron": "00 30 23 * * TUE",
-            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great deal for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
         },
          {
             "cron": "00 00 01 * * WED",
@@ -223,14 +215,7 @@
             "cron": "00 00 21 * * THU",
             "message": "If you aren’t already, make sure to join our discord community. Inside of there you can network with other traders 🌍, join our premium services 📈, participate in giveaways 💰and more! Use our sign up bot to get started its free! 🔗  \n\n 👉🏻  @ForexLeagueMessageBot 🏻👈🏻 "
         },
-        {
-            "cron": "00 00 22 * * THU",
-            "message": "🚨 🎟  RAFFLE ANNOUNCEMENT 🎟 🚨 \n\n We are teaming up with Royal Raffles to give away a FXSeed $10k Challenge and $500 cash. You can win for as little as $10 entry. There are max 50 tickets available and when the tickets are sold out then a winner will be selected.\n\n Check out the competition site for more details. One lucky winner is going to get this great deal for as little as $10 🔥 🤯 Good Luck everyone! https://www.royal-raffles.com/product-page/fxseed-10k-challenge-500-cash"
-        },
-        {
-            "cron": "00 30 07 * * FRI",
-            "message": "Hey Team! Thank you for joining the Forex League Live Sessions this week! 💯 We hope that you guys benefited from them and we really enjoy doing them for everybody. The amount of support and teamwork within this community always comes through and only makes us want to work harder every week 💪🏻 If you did not catch the live sessions make sure to jump on over to our youtube channel and check them out. They are completely FREE! https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A "
-        },
+      
         {
             "cron": "00 30 08 * * FRI",
             "message": "Want to chat with members of this telegram join here 🌎⬇️  \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U "
