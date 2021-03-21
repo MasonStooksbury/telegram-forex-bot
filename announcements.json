@@ -1,8 +1,16 @@
 {
     "announcements": [
         {
+            "cron": "00 30 05 * * SUN",
+            "message": "If you interested in joining us on a Retreat in Bali on October 4 - 10 then go to this link to check out more information! 🌴 🔗 \n https://www.where-next.com/collections/retreat/products/forex-leagues-forex-retreat"
+        },
+        {
             "cron": "00 00 08 * * SUN",
             "message": "Good Morning Team! First of all I just want to welcome all new members to the group. The markets are opening at 5 pm EST today! 📊 As always we will be posting all of our charts in here before the market opens! 🔥 \n\n Tonight we will be having our Sunday Market Blitz at 8 pm EST which is a live trading session where we cover all of our technical analysis on 10+ pairs. 🎥\n\n This is an amazing way to kick off the week and see where each pair could be making their next move. If there are opportunities for entry we will provide them for FREE on this live trading session 💰 \n\n The link will be dropped in here prior to this session and it will also be on youtube afterwards 🚀 \n\n If you want to get started with any of our premium or free services please click below 👑 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
+        },
+        {
+            "cron": "00 00 10 * * SUN",
+            "message": "Make sure you join the FXSeed telegram to get updates on our funding company 🔥 https://t.me/fxseedcommunity"
         },
         {
             "cron": "00 00 12 * * SUN",
@@ -17,8 +25,17 @@
             "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
         },
         {
-            "cron": "00 00 17 * * SUN",
+            "cron": "00 00 16 * * SUN",
             "message": "The broker that we use is ProsperityFX 👑 They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
+        },
+        {
+            "cron": "00 59 16 * * SUN",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "What's your approach to this week ⁉️",
+                "answers": ["High Risk 🔥", "Conservative Approach ⚔️ 🏻", "Demo Trading 💻"]
+            }
         },
         {
             "cron": "00 00 19 * * SUN",
@@ -43,6 +60,10 @@
         {
             "cron": "00 15 08 * * MON",
             "message": "Want to chat with members of this telegram join here 🌎 ⬇️ \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U "
+        },
+        {
+            "cron": "00 00 10 * * MON",
+            "message": "Make sure you join the FXSeed telegram to get updates on our funding company 🔥 https://t.me/fxseedcommunity"
         },
         {
             "cron": "00 00 12 * * MON",
@@ -78,8 +99,21 @@
             "message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Premium Signals you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
         {
+            "cron": "00 20 08 * * TUE",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "Which Session is your favorite ⁉️",
+                "answers": ["New York Session 🇺🇸", "Asian Session 🏯", "London Session 🌃"]
+            }
+        },
+        {
             "cron": "00 00 09 * * TUE",
             "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
+        },
+        {
+            "cron": "00 30 10 * * TUE",
+            "message": "Make sure you join the FXSeed telegram to get updates on our funding company 🔥 https://t.me/fxseedcommunity"
         },
         {
             "cron": "00 00 12 * * TUE",
@@ -105,6 +139,10 @@
         {
             "cron": "00 00 17 * * TUE",
             "message": "Hey Team! We are having our only free live trading session of the week tomorrow at 9 am EST. ⏰ A zoom link will be posted here prior to the session and it is completely FREE to join. \n\n If you have questions about anything feel free to come through and ask in the chat! As always there will be a $25 giveaway for people who attend 💰 See you for tomorrow’s session! 💯"
+        },
+        {
+            "cron": "00 00 20 * * TUE",
+            "message": "If you interested in joining us on a Retreat in Bali on October 4 - 10 then go to this link to check out more information! 🌴 🔗 \n https://www.where-next.com/collections/retreat/products/forex-leagues-forex-retreat"
         },
         {
             "cron": "00 00 22 * * TUE",
@@ -145,6 +183,10 @@
         },
         {
             "cron": "00 00 17 * * WED",
+            "message": "Make sure you join the FXSeed telegram to get updates on our funding company 🔥 https://t.me/fxseedcommunity"
+        },
+        {
+            "cron": "00 00 17 * * WED",
             "message": "If you want account management services from us you can get started here 🏧 ➡ @ForexLeagueTradeCopierBot "
         },
         {
@@ -175,7 +217,7 @@
         },
         {
             "cron": "00 30 05 * * THU",
-            "message": " The broker that we use is ProsperityFX 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts, and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
+            "message": " The broker that we use is ProsperityFX 🌍  They offer low spreads and commissions, BTC withdraws/despoits, 1:500 leverage, ECN Accounts,   and you can trade forex, crypto, commodities, indices and stocks. If you want help getting set up with them we put together a few videos to help you get started! https://myforexleague.teachable.com/p/broker "
         },
         {
             "cron": "00 30 07 * * THU",
@@ -192,6 +234,10 @@
         {
             "cron": "00 00 12 * * THU",
             "message": "Make sure to check out our website where you can find all the products we have to offer along with a little about the owners of Forex League! Just use this link to check it out 🚀 https://www.forexleagueco.com/"
+        },
+        {
+            "cron": "00 00 13 * * THU",
+            "message": "If you interested in joining us on a Retreat in Bali on October 4 - 10 then go to this link to check out more information! 🌴 🔗 \n https://www.where-next.com/collections/retreat/products/forex-leagues-forex-retreat"
         },
         {
             "cron": "00 00 15 * * THU",
@@ -221,6 +267,10 @@
             "message": "Want to chat with members of this telegram join here 🌎⬇️  \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U "
         },
         {
+            "cron": "00 00 10 * * FRI",
+            "message": "Make sure you join the FXSeed telegram to get updates on our funding company 🔥 https://t.me/fxseedcommunity"
+        },
+        {
             "cron": "00 00 12 * * FRI",
             "message": "Struggling with trading? We can be your Forex mentors just go here to get started with our free and premium services 👑 👑 👑 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
@@ -237,8 +287,16 @@
             "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
         {
+            "cron": "00 00 11 * * SAT",
+            "message": "If you interested in joining us on a Retreat in Bali on October 4 - 10 then go to this link to check out more information! 🌴 🔗 \n https://www.where-next.com/collections/retreat/products/forex-leagues-forex-retreat"
+        },
+        {
             "cron": "00 00 12 * * SAT",
             "message": "Want to grab some Forex League gear such as hats, notebooks, or beanies? Then head over to our pop up shop and check out what’s currently in stock 🔥 https://www.forexleagueco.com/forex-league-essentials"
+        },
+        {
+            "cron": "00 00 15 * * SAT",
+            "message": "Make sure you join the FXSeed telegram to get updates on our funding company 🔥 https://t.me/fxseedcommunity"
         },
         {
             "cron": "00 00 17 * * SAT",
