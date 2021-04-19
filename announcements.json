@@ -47,7 +47,7 @@
         },
         {
             "cron": "00 05 21 * * SUN",
-            "message": "Thank you for joining our live trading session! Best of luck this week in the markets.Our next free session will be on Wednesday at 9 am est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
+            "message": "Thank you for joining our live trading session! Best of luck this week in the markets. Our next free session will be on Wednesday at 8 pm est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Premium Signals, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 "
         },
         {
             "cron": "00 30 02 * * Mon",
@@ -138,7 +138,7 @@
         },
         {
             "cron": "00 00 17 * * TUE",
-            "message": "Hey Team! We are having our only free live trading session of the week tomorrow at 9 am EST. ⏰ A zoom link will be posted here prior to the session and it is completely FREE to join. \n\n If you have questions about anything feel free to come through and ask in the chat! As always there will be a $25 giveaway for people who attend 💰 See you for tomorrow’s session! 💯"
+            "message": "Hey Team! We are having our only free live trading session of the week tomorrow at 8 pm EST. ⏰ A zoom link will be posted here prior to the session and it is completely FREE to join. \n\n If you have questions about anything feel free to come through and ask in the chat! As always there will be a $25 giveaway for people who attend 💰 See you for tomorrow’s session! 💯"
         },
         {
             "cron": "00 00 20 * * TUE",
@@ -163,16 +163,9 @@
         },
         {
             "cron": "00 30 07 * * WED",
-            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be having our only FREE live session of the week. The link will be dropped in here at 9 am EST. Talk to you soon!🔥"
+            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be having our only FREE live session of the week. The link will be dropped in here at 8 pm EST. Talk to you later!🔥"
         },
-        {
-            "cron": "00 00 09 * * WED",
-            "message": "Here is the link to our live trading session you can join NOW 🔗 https://us02web.zoom.us/j/5273214305"
-        },
-        {
-            "cron": "00 05 10 * * WED",
-            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot🏻👈🏻 "
-        },
+     
          {
             "cron": "00 30 11 * * WED",
             "message": "Want to chat with members of this telegram join here 🌎⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U"
@@ -182,25 +175,28 @@
             "message": "Be sure to check out our previously recorded live trading sessions and market lessons completely for free on youtube.💯  We would appreciate it if you subscribed to the channel to help us to continue to grow this community! Here is the link 🔗 https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A"
         },
         {
-            "cron": "00 00 17 * * WED",
+            "cron": "00 00 14 * * WED",
             "message": "Make sure you join the FXSeed telegram to get updates on our funding company 🔥 https://t.me/fxseedcommunity"
         },
         {
-            "cron": "00 00 17 * * WED",
-            "message": "If you want account management services from us you can get started here 🏧 ➡ @ForexLeagueTradeCopierBot "
-        },
-        {
-            "cron": "00 00 19 * * WED",
+            "cron": "00 00 15 * * WED",
             "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes"
         },
         {
-            "cron": "00 00 21 * * WED",
-            "message": "POLL",
-            "poll": {
-                "header": "",
-                "question": "Did you join today’s live session ⁉️",
-                "answers": ["Yea 🔥", "Couldn’t make it 👎🏻", "Caught replay 🎥"]
-            }
+            "cron": "00 00 19 * * WED",
+            "message": "Hey Team! Our live trading session will take place at 8 pm EST which is in 1 hour! Zoom link will be posted in here before. Talk to you guys soon 🔥"
+        },
+        {
+            "cron": "00 00 20 * * WED",
+            "message": "Here is the link to our live trading session you can join NOW 🔗 https://us02web.zoom.us/j/5273214305"
+        },
+        {
+            "cron": "00 05 21 * * WED",
+            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot🏻👈🏻 "
+        },
+         {
+            "cron": "00 30 21 * * WED",
+            "message": "If you want account management services from us you can get started here 🏧 ➡ @ForexLeagueTradeCopierBot "
         },
         {
             "cron": "00 00 22 * * WED",
@@ -222,6 +218,15 @@
         {
             "cron": "00 30 07 * * THU",
             "message": "Hey Team! Happy Thursday, if you want to check out one of our previously done live webinars you can head over to our website and look back on some of the free ones we have done 🔗  https://myforexleague.teachable.com/courses/enrolled/595325"
+        },
+        {
+            "cron": "00 00 08 * * THU",
+            "message": "POLL",
+            "poll": {
+                "header": "",
+                "question": "Did you join yesterday’s live session ⁉️",
+                "answers": ["Yea 🔥", "Couldn’t make it 👎🏻", "Caught replay 🎥"]
+            }
         },
          {
             "cron": "00 30 08 * * THU",
