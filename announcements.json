@@ -146,7 +146,7 @@
         },
         {
             "cron": "00 00 22 * * TUE",
-            "message": "Want to get funded live money up to $1 million dollars?💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻"
+            "message": "Want to get funded? Receive your first payout in as little as two weeks with our Knight program 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻"
         },
          {
             "cron": "00 00 01 * * WED",
@@ -260,7 +260,7 @@
 
         {
             "cron": "00 00 18 * * THU",
-            "message": "Want to get funded live money up to $1 million dollars?💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻 "
+            "message": "Want to get funded? Receive your first payout in as little as two weeks with our Knight program 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻"
         },
         {
             "cron": "00 00 21 * * THU",
@@ -305,7 +305,7 @@
         },
         {
             "cron": "00 00 17 * * SAT",
-            "message": "Want to get funded live money up to $1 million dollars? 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈 "
+            "message": "Want to get funded? Receive your first payout in as little as two weeks with our Knight program 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻"
         }
     ]
 }
