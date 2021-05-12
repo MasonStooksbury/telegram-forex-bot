@@ -26,8 +26,15 @@ announcements["announcements"].forEach(announcement => {
 		if (announcement["message"] == "POLL") {
 			client.telegram.sendPoll(-1001398064062,  announcement["poll"]["header"] + announcement["poll"]["question"], announcement["poll"]["answers"]);
 		} else {
-			// Send our re-formatted string and our images (if any) to that channel
+			// Send our re-formatted string
 			client.telegram.sendMessage(-1001398064062, announcement["message"]);
+			
+			// If we have any images, send those as well
+			if (announcement["images"] !== "") {
+				announcement["images"].forEach(image => {
+					client.telegram.sendPhoto(-1001398064062, image);
+				})
+			}
 		}
 	}, undefined, true, timezone='America/New_York');
 	// For some reason, the above method adds a bunch of null garbage to the list so we need to strip that out
