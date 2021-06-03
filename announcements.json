@@ -330,7 +330,7 @@
             "images": ""
         },
          {
-            "cron": "00 00 08 * * THU",
+            "cron": "00 00 08 * * FRI",
             "message": "POLL",
             "images": "",
             "poll": {
