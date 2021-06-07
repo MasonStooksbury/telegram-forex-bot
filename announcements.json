@@ -7,7 +7,7 @@
         },
         {
             "cron": "00 00 10 * * SUN",
-            "message": "Make sure you join the The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
+            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
             "images": ""
         },
         {
@@ -67,12 +67,17 @@
         },
         {
             "cron": "00 00 10 * * MON",
-            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
+            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
             "images": ""
         },
         {
-            "cron": "00 00 15 * * Mon",
+            "cron": "00 00 15 * * MON",
             "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
+            "images": ""
+        },
+        {
+            "cron": "00 30 18 * * MON",
+            "message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
             "images": ""
         },
         {
@@ -110,22 +115,17 @@
             "message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot",
             "images": ""
         },
-         {
-            "cron": "00 00 16 * * TUE",
-            "message": "POLL",
-            "images": "",
-            "poll": {
-                "header": "",
-                "question": "Which pairs should we analyze for the Asian session ⁉️",
-                "answers": ["GBPJPY", "EURJPY", "AUDJPY", "USDJPY", "CADJPY"]
-            }
-        },
         {
             "cron": "00 00 18 * * TUE",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
+            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
             "images": ""
         },
-         {
+        {
+            "cron": "00 30 18 * * TUE",
+            "message": "Trading community unite! What's up everyone, hope you all had a great day as did we. Make sure to relax & break from the chart and see the pinned message or click this link for any of our free and premium services! @ForexLeagueMessageBot 🤟🏻",
+            "images": ""
+        },
+        {
             "cron": "00 00 22 * * TUE",
             "message": "POLL",
             "images": "",
@@ -147,12 +147,17 @@
         },
         {
             "cron": "00 00 14 * * WED",
-            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
+            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈",
             "images": ""
         },
         {
             "cron": "00 00 15 * * WED",
             "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
+            "images": ""
+        },
+        {
+            "cron": "00 30 18 * * WED",
+            "message": "Calling all traders! Just wanted to wish you all a good day/night as our day is ending. Thank you all for being a part of this community and the Forex League family. Make sure you don’t miss out on everything we offer & are working on by referring to the pinned message. You can find everything from our free services to funding!💰",
             "images": ""
         },
          {
@@ -164,11 +169,6 @@
                 "question": "Which pairs should we analyze for the NY session tomorrow ⁉️",
                 "answers": ["USDCAD", "USDCHF", "GBPUSD", "EURUSD", "AUDUSD", "NZDUSD"]
             }
-        },
-        {
-            "cron": "00 30 05 * * THU",
-            "message": " The broker that we use is FXChoice 🌍 They offer low spreads and commissions, BTC withdraws/despoits, 1:200 leverage, and you can trade forex, crypto, commodities, indices and stocks. They are a regulated broker by the IFSC and have been around for over a decade! We are lucky to partner with them! When you use our link to sign up you get a 20% deposit bonus💰 Sign up here! http://fxchoice.org/fxleague ",
-            "images": ""
         },
         {
             "cron": "00 30 07 * * THU",
@@ -186,16 +186,6 @@
             "images": ""
         },
         {
-            "cron": "00 00 12 * * THU",
-            "message": "Make sure to check out our website where you can find all the products we have to offer along with a little about the owners of Forex League! Just use this link to check it out 🚀 https://www.forexleagueco.com/",
-            "images": ""
-        },
-        {
-            "cron": "00 00 13 * * THU",
-            "message": "If you interested in joining us on a Retreat in Bali on October 4 - 10 then go to this link to check out more information! 🌴 🔗 \n https://www.where-next.com/collections/retreat/products/forex-leagues-forex-retreat",
-            "images": ""
-        },
-        {
             "cron": "00 00 15 * * THU",
             "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
             "images": ""
@@ -210,20 +200,14 @@
                 "answers": ["GBPJPY", "EURJPY", "AUDJPY", "USDJPY", "CADJPY"]
             }
         },
-
         {
             "cron": "00 00 18 * * THU",
             "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
             "images": ""
         },
         {
-            "cron": "00 00 21 * * THU",
-            "message": "If you aren’t already, make sure to join our discord community. Inside of there you can network with other traders 🌍, join our premium services 📈, participate in giveaways 💰and more! Use our sign up bot to get started its free! 🔗  \n\n 👉🏻  @ForexLeagueMessageBot 🏻👈🏻 ",
-            "images": ""
-        },
-       {
-            "cron": "00 00 22 * * THU",
-            "message": "Hey Team! Our free webinar will take place tomorrow at 1 pm est! Zoom link will be posted in here before. Talk to you guys soon 🔥",
+            "cron": "00 30 18 * * THU",
+            "message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
             "images": ""
         },
         {
@@ -233,12 +217,7 @@
         },
         {
             "cron": "00 00 10 * * FRI",
-            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
-            "images": ""
-        },
-        {
-            "cron": "00 00 12 * * FRI",
-            "message": "Struggling with trading? We can be your Forex mentors just go here to get started with our free and premium services 👑 👑 👑 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈",
             "images": ""
         },
          {
@@ -256,8 +235,13 @@
             "message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
             "images": ""
         },
-         {
-            "cron": "00 00 08 * * FRI",
+        {
+            "cron": "00 30 18 * * FRI",
+            "message": "Trading community unite! What's up everyone, hope you all had a great day as did we. Make sure to relax & break from the chart and see the pinned message or click this link for any of our free and premium services! @ForexLeagueMessageBot 🤟🏻",
+            "images": ""
+        },
+        {
+            "cron": "00 00 20 * * FRI",
             "message": "POLL",
             "images": "",
             "poll": {
@@ -267,33 +251,13 @@
             }
         },
         {
-            "cron": "00 00 19 * * FRI",
-            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
-            "images": ""
-        },
-        {
             "cron": "00 00 09 * * SAT",
             "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal room, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": ""
         },
         {
-            "cron": "00 00 11 * * SAT",
-            "message": "If you interested in joining us on a Retreat in Bali on October 4 - 10 then go to this link to check out more information! 🌴 🔗 \n https://www.where-next.com/collections/retreat/products/forex-leagues-forex-retreat",
-            "images": ""
-        },
-        {
-            "cron": "00 00 12 * * SAT",
-            "message": "Want to grab some Forex League gear such as hats, notebooks, or beanies? Then head over to our pop up shop and check out what’s currently in stock 🔥 https://www.forexleagueco.com/forex-league-essentials",
-            "images": ""
-        },
-        {
-            "cron": "00 00 15 * * SAT",
-            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
-            "images": ""
-        },
-        {
             "cron": "00 00 17 * * SAT",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
+            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
             "images": ""
         }
     ]
