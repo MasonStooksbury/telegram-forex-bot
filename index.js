@@ -24,15 +24,15 @@ announcements["announcements"].forEach(announcement => {
 	temp_jobs[job_id] = new cron.CronJob(announcement["cron"], () =>{
 		// If the message is a poll, do this instead
 		if (announcement["message"] == "POLL") {
-			client.telegram.sendPoll(-1001398064062,  announcement["poll"]["header"] + announcement["poll"]["question"], announcement["poll"]["answers"]);
+			client.telegram.sendPoll(announcement["channel"],  announcement["poll"]["header"] + announcement["poll"]["question"], announcement["poll"]["answers"]);
 		} else {
 			// Send our re-formatted string
-			client.telegram.sendMessage(-1001398064062, announcement["message"]);
+			client.telegram.sendMessage(announcement["channel"], announcement["message"]);
 			
 			// If we have any images, send those as well
 			if (announcement["images"] !== "") {
 				announcement["images"].forEach(image => {
-					client.telegram.sendPhoto(-1001398064062, image);
+					client.telegram.sendPhoto(announcement["channel"], image);
 				})
 			}
 		}

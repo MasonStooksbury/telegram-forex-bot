@@ -2,27 +2,32 @@
     "announcements": [
         {
             "cron": "00 00 08 * * SUN",
-            "message": "Good Morning Team! First of all I just want to welcome all new members to the group. The markets are opening at 5 pm EST today! 📊 As always we will be posting all of our charts in here before the market opens! 🔥 \n\n Tonight we will be having our Sunday Market Blitz at 8 pm EST which is a live trading session where we cover all of our technical analysis on 10+ pairs. 🎥\n\n This is an amazing way to kick off the week and see where each pair could be making their next move. If there are opportunities for entry we will provide them for FREE on this live trading session 💰 \n\n The link will be dropped in here prior to this session and it will also be on youtube afterwards 🚀 \n\n If you want to get started with any of our premium or free services please click below 👑 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+            "channel": -1001398064062,           
+			"message": "Good Morning Team! First of all I just want to welcome all new members to the group. The markets are opening at 5 pm EST today! 📊 As always we will be posting all of our charts in here before the market opens! 🔥 \n\n Tonight we will be having our Sunday Market Blitz at 8 pm EST which is a live trading session where we cover all of our technical analysis on 10+ pairs. 🎥\n\n This is an amazing way to kick off the week and see where each pair could be making their next move. If there are opportunities for entry we will provide them for FREE on this live trading session 💰 \n\n The link will be dropped in here prior to this session and it will also be on youtube afterwards 🚀 \n\n If you want to get started with any of our premium or free services please click below 👑 \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": ""
         },
         {
             "cron": "00 00 10 * * SUN",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
+            "channel": -1001398064062,            
+			"message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
             "images": ""
         },
         {
             "cron": "00 30 13 * * SUN",
-            "message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot ",
+            "channel": -1001398064062,            
+			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot ",
             "images": ""
         },
         {
             "cron": "00 00 15 * * SUN",
-            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
+            "channel": -1001398064062,            
+			"message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
             "images": ""
         },
         {
             "cron": "00 59 16 * * SUN",
-            "message": "POLL",
+            "channel": -1001398064062,            
+			"message": "POLL",
             "images": "",
             "poll": {
                 "header": "",
@@ -32,22 +37,26 @@
         },
         {
             "cron": "00 00 19 * * SUN",
-            "message": "Hey Team! Our live trading session will take place at 8 pm EST which is in 1 hour! Zoom link will be posted in here before. Talk to you guys soon 🔥",
+            "channel": -1001398064062,            
+			"message": "Hey Team! Our live trading session will take place at 8 pm EST which is in 1 hour! Zoom link will be posted in here before. Talk to you guys soon 🔥",
             "images": ""
         },
         {
             "cron": "00 00 20 * * SUN",
-            "message": "Here is the link to our live trading session you can join NOW 🔗 \n <https://us02web.Zoom.us/j/5273214305>",
+            "channel": -1001398064062,            
+			"message": "Here is the link to our live trading session you can join NOW 🔗 \n <https://us02web.Zoom.us/j/5273214305>",
             "images": ""
         },
         {
             "cron": "00 05 21 * * SUN",
-            "message": "Thank you for joining our live trading session! Best of luck this week in the markets. Our next free webinar will be on Friday at 1 pm est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal room, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+            "channel": -1001398064062,            
+			"message": "Thank you for joining our live trading session! Best of luck this week in the markets. Our next free webinar will be on Friday at 1 pm est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal room, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": ""
         },
         {
             "cron": "00 00 23 * * SUN",
-            "message": "POLL",
+            "channel": -1001398064062,            
+			"message": "POLL",
             "images": "",
             "poll": {
                 "header": "",
@@ -57,42 +66,50 @@
         },
         {
             "cron": "00 30 07 * * MON",
-            "message": "Good morning Forex League❗ I want to welcome all our new members to the community! Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless.\n\n If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot 👈🏻 ",
+            "channel": -1001398064062,            
+			"message": "Good morning Forex League❗ I want to welcome all our new members to the community! Remember, the morning is the best part of the day to get ahead on your daily habits ☀️ The body is rested, the brain is fresh, and the possibilities of the day are endless.\n\n If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot 👈🏻 ",
             "images": ""
         },
         {
             "cron": "00 15 08 * * MON",
-            "message": "Want to chat with members of this telegram join here 🌎 ⬇️ \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U ",
+            "channel": -1001398064062,            
+			"message": "Want to chat with members of this telegram join here 🌎 ⬇️ \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U ",
             "images": ""
         },
         {
             "cron": "00 00 10 * * MON",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
+            "channel": -1001398064062,            
+			"message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
             "images": ""
         },
         {
             "cron": "00 00 15 * * MON",
-            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
+            "channel": -1001398064062,            
+			"message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
             "images": ""
         },
         {
             "cron": "00 30 18 * * MON",
-            "message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
+            "channel": -1001398064062,            
+			"message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
             "images": ""
         },
         {
             "cron": "00 30 02 * * TUE",
-            "message": "The broker that we use is FXChoice 🌍 They offer low spreads and commissions, BTC withdraws/despoits, 1:200 leverage, and you can trade forex, crypto, commodities, indices and stocks. They are a regulated broker by the IFSC and have been around for over a decade! We are lucky to partner with them! When you use our link to sign up you get a 20% deposit bonus💰 Sign up here! http://fxchoice.org/fxleague ",
+            "channel": -1001398064062,            
+			"message": "The broker that we use is FXChoice 🌍 They offer low spreads and commissions, BTC withdraws/despoits, 1:200 leverage, and you can trade forex, crypto, commodities, indices and stocks. They are a regulated broker by the IFSC and have been around for over a decade! We are lucky to partner with them! When you use our link to sign up you get a 20% deposit bonus💰 Sign up here! http://fxchoice.org/fxleague ",
             "images": ""
         },
         {
             "cron": "00 30 07 * * TUE",
-            "message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Learn and Earn Signal room you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+            "channel": -1001398064062,            
+			"message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Learn and Earn Signal room you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": ""
         },
         {
             "cron": "00 20 08 * * TUE",
-            "message": "POLL",
+            "channel": -1001398064062,            
+			"message": "POLL",
             "images": "",
             "poll": {
                 "header": "",
@@ -102,32 +119,38 @@
         },
         {
             "cron": "00 00 09 * * TUE",
-            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
+            "channel": -1001398064062,            
+			"message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
             "images": ""
         },
          {
             "cron": "00 00 13 * * TUE",
-            "message": "Want to chat with members of this telegram join here 🌎⬇️ \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U ",
+            "channel": -1001398064062,            
+			"message": "Want to chat with members of this telegram join here 🌎⬇️ \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U ",
             "images": ""
         },
         {
             "cron": "00 30 15 * * TUE",
-            "message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot",
+            "channel": -1001398064062,            
+			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot",
             "images": ""
         },
         {
             "cron": "00 00 18 * * TUE",
-            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
+            "channel": -1001398064062,            
+			"message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
             "images": ""
         },
         {
             "cron": "00 30 18 * * TUE",
-            "message": "Trading community unite! What's up everyone, hope you all had a great day as did we. Make sure to relax & break from the chart and see the pinned message or click this link for any of our free and premium services! @ForexLeagueMessageBot 🤟🏻",
+            "channel": -1001398064062,            
+			"message": "Trading community unite! What's up everyone, hope you all had a great day as did we. Make sure to relax & break from the chart and see the pinned message or click this link for any of our free and premium services! @ForexLeagueMessageBot 🤟🏻",
             "images": ""
         },
         {
             "cron": "00 00 22 * * TUE",
-            "message": "POLL",
+            "channel": -1001398064062,            
+			"message": "POLL",
             "images": "",
             "poll": {
                 "header": "",
@@ -137,32 +160,38 @@
         },
         {
             "cron": "00 30 07 * * WED",
-            "message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be having a free webinar on Friday at 1 pm est. The link will be dropped in here at 1 pm EST. Talk to you then!🔥",
+            "channel": -1001398064062,            
+			"message": "Good morning Forex League❗ Today let’s get one step closer to our goals. We will be having a free webinar on Friday at 1 pm est. The link will be dropped in here at 1 pm EST. Talk to you then!🔥",
             "images": ""
         },
         {
             "cron": "00 30 11 * * WED",
-            "message": "Want to chat with members of this telegram join here 🌎⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U",
+            "channel": -1001398064062,            
+			"message": "Want to chat with members of this telegram join here 🌎⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U",
             "images": ""
         },
         {
             "cron": "00 00 14 * * WED",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈",
+            "channel": -1001398064062,            
+			"message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈",
             "images": ""
         },
         {
             "cron": "00 00 15 * * WED",
-            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
+            "channel": -1001398064062,            
+			"message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
             "images": ""
         },
         {
             "cron": "00 30 18 * * WED",
-            "message": "Calling all traders! Just wanted to wish you all a good day/night as our day is ending. Thank you all for being a part of this community and the Forex League family. Make sure you don’t miss out on everything we offer & are working on by referring to the pinned message. You can find everything from our free services to funding!💰",
+            "channel": -1001398064062,            
+			"message": "Calling all traders! Just wanted to wish you all a good day/night as our day is ending. Thank you all for being a part of this community and the Forex League family. Make sure you don’t miss out on everything we offer & are working on by referring to the pinned message. You can find everything from our free services to funding!💰",
             "images": ""
         },
          {
             "cron": "00 00 22 * * WED",
-            "message": "POLL",
+            "channel": -1001398064062,            
+			"message": "POLL",
             "images": "",
             "poll": {
                 "header": "",
@@ -172,27 +201,32 @@
         },
         {
             "cron": "00 30 07 * * THU",
-            "message": "Hey Team! Happy Thursday, if you want to check out one of our previously done live webinars you can head over to our website and look back on some of the free ones we have done 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
+            "channel": -1001398064062,            
+			"message": "Hey Team! Happy Thursday, if you want to check out one of our previously done live webinars you can head over to our website and look back on some of the free ones we have done 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
             "images": ""
         },
          {
             "cron": "00 30 08 * * THU",
-            "message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot",
+            "channel": -1001398064062,            
+			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot",
             "images": ""
         },
          {
             "cron": "00 00 11 * * THU",
-            "message": "Join the chat with members of this telegram here 🌎 ⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U ",
+            "channel": -1001398064062,            
+			"message": "Join the chat with members of this telegram here 🌎 ⬇️ https://t.me/joinchat/SkS9q361T9kwFJ-U ",
             "images": ""
         },
         {
             "cron": "00 00 15 * * THU",
-            "message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
+            "channel": -1001398064062,            
+			"message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes",
             "images": ""
         },
         {
             "cron": "00 00 17 * * THU",
-            "message": "POLL",
+            "channel": -1001398064062,            
+			"message": "POLL",
             "images": "",
             "poll": {
                 "header": "",
@@ -202,47 +236,56 @@
         },
         {
             "cron": "00 00 18 * * THU",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
+            "channel": -1001398064062,            
+			"message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
             "images": ""
         },
         {
             "cron": "00 30 18 * * THU",
-            "message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
+            "channel": -1001398064062,            
+			"message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
             "images": ""
         },
         {
             "cron": "00 30 08 * * FRI",
-            "message": "Want to chat with members of this telegram join here 🌎⬇️  \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U ",
+            "channel": -1001398064062,            
+			"message": "Want to chat with members of this telegram join here 🌎⬇️  \n\n https://t.me/joinchat/SkS9q361T9kwFJ-U ",
             "images": ""
         },
         {
             "cron": "00 00 10 * * FRI",
-            "message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈",
+            "channel": -1001398064062,            
+			"message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors 💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈",
             "images": ""
         },
          {
             "cron": "00 00 13 * * FRI",
-            "message": "Here is the link to our live trading session you can join NOW 🔗 https://us02web.zoom.us/j/5273214305",
+            "channel": -1001398064062,            
+			"message": "Here is the link to our live trading session you can join NOW 🔗 https://us02web.zoom.us/j/5273214305",
             "images": ""
         },
         {
             "cron": "00 05 14 * * FRI",
-            "message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot 👈🏻 ",
+            "channel": -1001398064062,            
+			"message": "Thank you for joining the live session! Our next free session will be the Sunday Market Blitz at 8 pm est. If you want to join the Forex League Lifetime Membership just click the link below and schedule a call to get started! 🙏  \n\n 👉🏻  @ForexLeagueLifetimeMembershipBot 👈🏻 ",
             "images": ""
         },
         {
             "cron": "00 00 17 * * FRI",
-            "message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
+            "channel": -1001398064062,            
+			"message": "The market is now CLOSED but the work begins NOW. The weekend is the perfect time to review this past week, backtest your system, or if you’re a beginner refresh on the basics. We want to be here to support you during this time. Check out all of our free live webinars here 🔗  https://myforexleague.teachable.com/courses/enrolled/595325",
             "images": ""
         },
         {
             "cron": "00 30 18 * * FRI",
-            "message": "Trading community unite! What's up everyone, hope you all had a great day as did we. Make sure to relax & break from the chart and see the pinned message or click this link for any of our free and premium services! @ForexLeagueMessageBot 🤟🏻",
+            "channel": -1001398064062,            
+			"message": "Trading community unite! What's up everyone, hope you all had a great day as did we. Make sure to relax & break from the chart and see the pinned message or click this link for any of our free and premium services! @ForexLeagueMessageBot 🤟🏻",
             "images": ""
         },
         {
             "cron": "00 00 20 * * FRI",
-            "message": "POLL",
+            "channel": -1001398064062,            
+			"message": "POLL",
             "images": "",
             "poll": {
                 "header": "",
@@ -252,12 +295,14 @@
         },
         {
             "cron": "00 00 09 * * SAT",
-            "message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal room, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+            "channel": -1001398064062,            
+			"message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal room, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": ""
         },
         {
             "cron": "00 00 17 * * SAT",
-            "message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
+            "channel": -1001398064062,            
+			"message": "Make sure you join The Funded Trader telegram to get updates on our funding company 🔥 https://t.me/thefundedtraderprogram",
             "images": ""
         }
     ]
