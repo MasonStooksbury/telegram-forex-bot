@@ -185,7 +185,7 @@
         {
             "cron": "00 30 18 * * WED",
             "channel": -1001398064062,            
-			"message": "Calling all traders! Just wanted to wish you all a good day/night as our day is ending. Thank you all for being a part of this community and the Forex League family. Make sure you don’t miss out on everything we offer & are working on by referring to the pinned message. You can find everything from our free services to funding!💰",
+			"message": "Calling all traders! Just wanted to wish you all a good day/night as our day is ending. Thank you all for being a part of this community and the Forex League family. Make sure you don’t miss out on everything we offer & are working on by referring to the pinned message. You can find everything from our free services to funding!💰 @ForexLeagueMessageBot",
             "images": ""
         },
          {
@@ -243,7 +243,7 @@
         {
             "cron": "00 30 18 * * THU",
             "channel": -1001398064062,            
-			"message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
+			"message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻 @ForexLeagueMessageBot",
             "images": ""
         },
 	{
