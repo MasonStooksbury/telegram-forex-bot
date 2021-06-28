@@ -269,7 +269,7 @@
             "channel": -1001398064062,            
 			"message": "Hey Team! Our free webinar session will take place at 1 pm EST which is in 1 hour! Zoom link will be posted in here before. Talk to you guys soon 🔥",
             "images": ""
-         
+	},         
          {
             "cron": "00 00 13 * * FRI",
             "channel": -1001398064062,            
