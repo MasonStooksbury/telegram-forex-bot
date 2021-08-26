@@ -15,7 +15,7 @@
         {
             "cron": "00 30 13 * * SUN",
             "channel": -1001398064062,            
-			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot ",
+			"message": "Want to join our Signals Services? Rapid Signals features up to 10-15 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. 💰 🔗\n @forexleaguesignalsservicesbot ",
             "images": ""
         },
         {
@@ -50,7 +50,7 @@
         {
             "cron": "00 05 21 * * SUN",
             "channel": -1001398064062,            
-			"message": "Thank you for joining our live trading session! Best of luck this week in the markets. Our next free webinar will be on Friday at 1 pm est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal room, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+			"message": "Thank you for joining our live trading session! Best of luck this week in the markets. Our next free webinar will be on Friday at 1 pm est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A  \n\n  If you want any of our premium services including the Lifetime Course Membership, and Account Management use our sign up bot!  \n\n 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": ""
         },
         {
@@ -91,19 +91,13 @@
         {
             "cron": "00 30 18 * * MON",
             "channel": -1001398064062,            
-			"message": "Hello Traders! The trading day is ending and we are preparing for tomorrow. Make sure you prepare yourself as well and see the pinned message ⬆️ for educational resources! Have a good day/night 🤟🏻",
-            "images": ""
-        },
-        {
-            "cron": "00 30 02 * * TUE",
-            "channel": -1001398064062,            
-			"message": "The broker that we use is FXChoice 🌍 They offer low spreads and commissions, BTC withdraws/despoits, 1:200 leverage, and you can trade forex, crypto, commodities, indices and stocks. They are a regulated broker by the IFSC and have been around for over a decade! We are lucky to partner with them! When you use our link to sign up you get a 20% deposit bonus💰 Sign up here! http://fxchoice.org/fxleague ",
+			"message": "Interested in getting account management services? We are not taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
             "images": ""
         },
         {
             "cron": "00 30 07 * * TUE",
             "channel": -1001398064062,            
-			"message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Learn and Earn Signal room you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+			"message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Signal room you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": "https://drive.google.com/file/d/1_hu507amnJZXeSwqkOZTI9mefqRFM9L-/view?usp=sharing"
         },
         {
@@ -132,7 +126,7 @@
         {
             "cron": "00 30 15 * * TUE",
             "channel": -1001398064062,            
-			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot",
+			"message": "Want to join our Signals Services? Rapid Signals features up to 10-15 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Community. 💰 🔗\n @forexleaguesignalsservicesbot",
             "images": ""
         },
         {
@@ -185,7 +179,7 @@
         {
             "cron": "00 30 18 * * WED",
             "channel": -1001398064062,            
-			"message": "Calling all traders! Just wanted to wish you all a good day/night as our day is ending. Thank you all for being a part of this community and the Forex League family. Make sure you don’t miss out on everything we offer & are working on by referring to the pinned message. You can find everything from our free services to funding!💰 @ForexLeagueMessageBot",
+			"message": "Interested in getting account management services? We are not taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
             "images": ""
         },
          {
@@ -208,7 +202,7 @@
          {
             "cron": "00 30 08 * * THU",
             "channel": -1001398064062,            
-			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. If you want to trade live with us then the Learn and Earn group is what you're looking for we do live sessions in the London and New York Session  💰 🔗\n @forexleaguesignalsservicesbot",
+			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. 💰 🔗\n @forexleaguesignalsservicesbot",
             "images": "https://drive.google.com/file/d/1RolJgt_ZV4ffaTL6lJI-iYO8mx2hBA6K/view?usp=sharing"
         },
          {
@@ -233,12 +227,6 @@
                 "question": "Which pairs should we analyze for the Asian session ⁉️",
                 "answers": ["GBPJPY", "EURJPY", "AUDJPY", "USDJPY", "CADJPY"]
             }
-        },
-        {
-            "cron": "00 00 18 * * THU",
-            "channel": -1001398064062,            
-			"message": "Want to get funded? We are currently building a team of traders through the Funded Trader which is a funding company that offers 50k, 100k and 200k accounts. If you beat the challenge you will become a partner with the Funded Trader and Forex League where we will start building out a close relatiosnhip with you to scale up to $1.5 million given by our investors💰 To learn more click here \n\n  👉🏻 @Thefundedtraderbot 👈🏻",
-            "images": ""
         },
         {
             "cron": "00 30 18 * * THU",
@@ -308,8 +296,14 @@
         {
             "cron": "00 00 09 * * SAT",
             "channel": -1001398064062,            
-			"message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Learn and Earn Signal room, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+			"message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Signal room, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
             "images": "https://drive.google.com/file/d/19QmTrwTFX2JwYYzsTmvoLC6RrPvgcHZz/view?usp=sharing"
+        },
+	{
+            "cron": "00 30 12 * * SAT",
+            "channel": -1001398064062,            
+			"message": "Interested in getting account management services? We are not taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
+            "images": ""
         },
         {
             "cron": "00 00 17 * * SAT",
