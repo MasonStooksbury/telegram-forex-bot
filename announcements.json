@@ -18,6 +18,12 @@
 			"message": "Want to join our Signals Services? Rapid Signals features up to 10-15 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. 💰 🔗\n @forexleaguesignalsservicesbot ",
             "images": ""
         },
+	{
+            "cron": "00 00 14 * * SUN",
+            "channel": -1001398064062,            
+			"message": "We are now accepting Crypto for Rapid Signals 👽 \n BTC is available to use 💰 \n If you want to get started send me a message \n https://t.me/forexleaguehelp",
+            "images": ""
+        }
         {
             "cron": "00 00 15 * * SUN",
             "channel": -1001398064062,            
@@ -91,7 +97,7 @@
         {
             "cron": "00 30 18 * * MON",
             "channel": -1001398064062,            
-			"message": "Interested in getting account management services? We are not taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
+			"message": "Interested in getting account management services? We are now taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
             "images": ""
         },
         {
@@ -129,6 +135,12 @@
 			"message": "Want to join our Signals Services? Rapid Signals features up to 10-15 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Community. 💰 🔗\n @forexleaguesignalsservicesbot",
             "images": ""
         },
+	{
+            "cron": "00 00 16 * * TUE",
+            "channel": -1001398064062,            
+			"message": "We are now accepting Crypto for Rapid Signals 👽 \n BTC is available to use 💰 \n If you want to get started send me a message \n https://t.me/forexleaguehelp",
+            "images": ""
+        }
         {
             "cron": "00 00 18 * * TUE",
             "channel": -1001398064062,            
@@ -179,7 +191,7 @@
         {
             "cron": "00 30 18 * * WED",
             "channel": -1001398064062,            
-			"message": "Interested in getting account management services? We are not taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
+			"message": "Interested in getting account management services? We are now taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
             "images": ""
         },
          {
@@ -205,6 +217,12 @@
 			"message": "Want to join our Signals Services? Rapid Signals features up to 20 signals a day, it's actually very simple, we have a team of traders working all around the world in different timezones. This is only possible through the Forex League Communtiy. 💰 🔗\n @forexleaguesignalsservicesbot",
             "images": "https://drive.google.com/file/d/1RolJgt_ZV4ffaTL6lJI-iYO8mx2hBA6K/view?usp=sharing"
         },
+	{
+            "cron": "00 00 10 * * THU",
+            "channel": -1001398064062,            
+			"message": "We are now accepting Crypto for Rapid Signals 👽 \n BTC is available to use 💰 \n If you want to get started send me a message \n https://t.me/forexleaguehelp",
+            "images": ""
+        }
          {
             "cron": "00 00 11 * * THU",
             "channel": -1001398064062,            
@@ -302,7 +320,7 @@
 	{
             "cron": "00 30 12 * * SAT",
             "channel": -1001398064062,            
-			"message": "Interested in getting account management services? We are not taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
+			"message": "Interested in getting account management services? We are now taking on clients, your account will be managed by our trader and you can make withdrawals monthly. If you want more information go here 🏧 https://t.me/ForexLeagueTradeCopierBot",
             "images": ""
         },
         {
