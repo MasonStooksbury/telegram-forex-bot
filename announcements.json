@@ -114,7 +114,7 @@
         {
             "cron": "00 30 07 * * TUE",
             "channel": -1001398064062,            
-			"message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n If you want any of our premium services including the Lifetime Membership Course, Account Management, or Signal room you can get started here 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+			"message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  ",
             "images": "https://drive.google.com/file/d/1_hu507amnJZXeSwqkOZTI9mefqRFM9L-/view?usp=sharing"
         },
         {
@@ -282,12 +282,6 @@
             "images": ""
         },
         {
-            "cron": "00 30 18 * * FRI",
-            "channel": -1001398064062,            
-			"message": "Trading community unite! What's up everyone, hope you all had a great day as did we. Make sure to relax & break from the chart and see the pinned message or click this link for any of our free and premium services! @ForexLeagueMessageBot 🤟🏻",
-            "images": ""
-        },
-        {
             "cron": "00 00 20 * * FRI",
             "channel": -1001398064062,            
 			"message": "POLL",
@@ -301,7 +295,7 @@
         {
             "cron": "00 00 09 * * SAT",
             "channel": -1001398064062,            
-			"message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌 \n\n If you want any of our premium services including the Lifetime Course Membership, Signal room, and Account Management you can get started below with our sign up bot! 👉🏻  @ForexLeagueMessageBot 👈🏻 ",
+			"message": "Good Morning Team❗ It’s the weekend and we hope you take some time for yourself 🙌",
             "images": "https://drive.google.com/file/d/19QmTrwTFX2JwYYzsTmvoLC6RrPvgcHZz/view?usp=sharing"
         },
 	{
