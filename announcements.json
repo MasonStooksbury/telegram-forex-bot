@@ -13,12 +13,6 @@
             "images": ""
         },
         {
-            "cron": "00 30 13 * * SUN",
-            "channel": -1001398064062,            
-			"message": "Forex League Services 🏆 \n Rapid Signals ⚡️ \n Lifetime Membership 🎓 \n\n Learn more about each of our products by clicking the link below \n https://t.me/ForexLeagueBot \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
-            "images": ""
-        },
-        {
             "cron": "00 00 15 * * SUN",
             "channel": -1001398064062,            
 			"message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes \n 🚫 No signals without analysis. \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
@@ -52,17 +46,6 @@
             "channel": -1001398064062,            
 			"message": "Thank you for joining our live trading session! Best of luck this week in the markets. Our next free webinar will be on Friday at 1 pm est. \n\n You can catch the replay from the Sunday Market Blitz on our Youtube Channel https://www.youtube.com/channel/UCaghoaCcEoZih60zap3yH5A \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
             "images": ""
-        },
-        {
-            "cron": "00 00 23 * * SUN",
-            "channel": -1001398064062,            
-			"message": "POLL",
-            "images": "",
-            "poll": {
-                "header": "",
-                "question": "Which pairs should we analyze for the NY session tomorrow ⁉️",
-                "answers": ["USDCAD", "USDCHF", "GBPUSD", "EURUSD", "AUDUSD", "NZDUSD"]
-            }
         },
         {
             "cron": "00 30 07 * * MON",
@@ -109,19 +92,14 @@
             "cron": "00 30 07 * * TUE",
             "channel": -1001398064062,            
 			"message": "Good morning Forex League❗ We got a new day, new opportunities, and new things to learn.. Let’s get this weeks momentum going 💪  With this group we’re all unstoppable.🙌  \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
-            "images": "https://drive.google.com/file/d/1_hu507amnJZXeSwqkOZTI9mefqRFM9L-/view?usp=sharing"
+            "images": ""
         },
-        {
-            "cron": "00 20 08 * * TUE",
+	{
+            "cron": "00 30 08 * * TUE",
             "channel": -1001398064062,            
-			"message": "POLL",
-            "images": "",
-            "poll": {
-                "header": "",
-                "question": "Which Session is your favorite ⁉️",
-                "answers": ["New York Session 🇺🇸", "Asian Session 🏯", "London Session 🌃"]
-            }
-        },
+			"message": "We are excited to announce our new partnership with Smartprofitsfx & Eightcap! We are offering $3 per side with $0 markup on spread. For anyone that has traded with Eightcap before, you know the spreads are basically 0. They are a regulated broker out of Australia that you can trust with your deposits! \n\n https://www.smartprofitfx.com/forexleague",
+            "images": ""
+        },  
         {
             "cron": "00 00 09 * * TUE",
             "channel": -1001398064062,            
@@ -145,17 +123,6 @@
             "channel": -1001398064062,            
 			"message": "Make sure you join The Funded Trader telegram to get updates on our funding company https://t.me/thefundedtraderprogram  \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
             "images": ""
-        },
-        {
-            "cron": "00 00 22 * * TUE",
-            "channel": -1001398064062,            
-			"message": "POLL",
-            "images": "",
-            "poll": {
-                "header": "",
-                "question": "Which pairs should we analyze for the NY session tomorrow ⁉️",
-                "answers": ["USDCAD", "USDCHF", "GBPUSD", "EURUSD", "AUDUSD", "NZDUSD"]
-            }
         },
         {
             "cron": "00 30 07 * * WED",
@@ -188,17 +155,6 @@
             "images": ""
         },
          {
-            "cron": "00 00 22 * * WED",
-            "channel": -1001398064062,            
-			"message": "POLL",
-            "images": "",
-            "poll": {
-                "header": "",
-                "question": "Which pairs should we analyze for the NY session tomorrow ⁉️",
-                "answers": ["USDCAD", "USDCHF", "GBPUSD", "EURUSD", "AUDUSD", "NZDUSD"]
-            }
-        },
-         {
             "cron": "00 30 08 * * THU",
             "channel": -1001398064062,            
 			"message": "Forex League Services 🏆 \n Rapid Signals ⚡️ \n Lifetime Membership 🎓 \n\n Learn more about each of our products by clicking the link below \n https://t.me/ForexLeagueBot \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
@@ -216,17 +172,12 @@
 			"message": "CHAT RULES 🚧 \n 🚫 No advertising \n 🚫 No shitty jokes \n 🚫 No bad vibes \n 🚫 No weird vibes \n 🚫 No signals without analysis  \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
             "images": ""
         },
-        {
-            "cron": "00 00 17 * * THU",
+	{
+            "cron": "00 30 16 * * THU",
             "channel": -1001398064062,            
-			"message": "POLL",
-            "images": "",
-            "poll": {
-                "header": "",
-                "question": "Which pairs should we analyze for the Asian session ⁉️",
-                "answers": ["GBPJPY", "EURJPY", "AUDJPY", "USDJPY", "CADJPY"]
-            }
-        },
+			"message": "We are excited to announce our new partnership with Smartprofitsfx & Eightcap! We are offering $3 per side with $0 markup on spread. For anyone that has traded with Eightcap before, you know the spreads are basically 0. They are a regulated broker out of Australia that you can trust with your deposits! \n\n https://www.smartprofitfx.com/forexleague",
+            "images": ""
+        },  
         {
             "cron": "00 30 18 * * THU",
             "channel": -1001398064062,            
@@ -280,6 +231,12 @@
 			"message": "Forex League Services 🏆 \n Rapid Signals ⚡️ \n Lifetime Membership 🎓 \n\n Learn more about each of our products by clicking the link below \n https://t.me/ForexLeagueBot \n\n Join our discord chat and head to the support channel to chat with us https://discord.gg/3sqJMmnvMH",
             "images": ""
         },
+	{
+            "cron": "00 30 02 * * SAT",
+            "channel": -1001398064062,            
+			"message": "We are excited to announce our new partnership with Smartprofitsfx & Eightcap! We are offering $3 per side with $0 markup on spread. For anyone that has traded with Eightcap before, you know the spreads are basically 0. They are a regulated broker out of Australia that you can trust with your deposits! \n\n https://www.smartprofitfx.com/forexleague",
+            "images": ""
+        },     
         {
             "cron": "00 00 17 * * SAT",
             "channel": -1001398064062,            
